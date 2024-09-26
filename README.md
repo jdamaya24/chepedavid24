@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chepedavid24
 - 👀 I’m interested in music and videogames!
-- 🌱 I’m currently learning c++ lol
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on something big in the future.
 - 📫 How to reach me... Maybe later.
 
