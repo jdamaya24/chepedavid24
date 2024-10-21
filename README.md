@@ -2,7 +2,7 @@
 - 👀 I’m interested in music and videogames!
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on something big in the future.
-- 📫 How to reach me... Maybe later.
+- 📫 You can reach me via jdamaya2410@gmail.com
 
 <!---
 chepedavid24/chepedavid24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
