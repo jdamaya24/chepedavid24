@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chepe
+- 👋 Hi, I’m @Jose
 - 👀 I’m interested in music and videogames!
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on something big in the future.
